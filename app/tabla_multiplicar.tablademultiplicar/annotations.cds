@@ -1,0 +1,1 @@
+using tabla_multiplicarSrv as service from '../../srv/service';
